@@ -1,0 +1,3 @@
+Yolov8n.engine + osnet_x0_25_msmt17.engine: 6.7ms preprocess, 5.1ms inference, 3.2ms postprocess, 68.3ms tracking per image at shape (1, 3, 640, 640)
+Yolov8s.engine + osnet_x0_25_msmt17.engine: 4.7ms preprocess, 7.1ms inference, 2.6ms postprocess, 59.5ms tracking per image at shape (1, 3, 640, 640)
+Yolov8m.engine + osnet_x0_25_msmt17.engine: 4.4ms preprocess, 12.1ms inference, 2.5ms postprocess, 61.2ms tracking per image at shape (1, 3, 640, 640)

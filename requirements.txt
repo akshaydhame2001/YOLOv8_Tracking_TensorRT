@@ -1,4 +1,4 @@
-
+# ultralytics @ git+https://github.com/mikel-brostrom/ultralytics.git
 # tracker-specific packages ----------------------------------------------------
 
 filterpy>=1.4.5         # OCSORT & DeepOCSORT
@@ -27,7 +27,7 @@ yacs>=0.1.8             # clip
 # onnx>=1.12.0          # ONNX export
 # onnxsim>=0.4.1        # ONNX simplifier
 # nvidia-pyindex        # TensorRT export
-# nvidia-tensorrt       # TensorRT export
+nvidia-tensorrt       # TensorRT export pip install "nvidia-tensorrt" -U --index-url https://pypi.ngc.nvidia.com
 # openvino-dev>=2022.3  # OpenVINO export
 # onnx2tf>=1.10.0       # TFLite export
 
