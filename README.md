@@ -2,11 +2,11 @@
 
 ### DeepStream
 
-![deepstream](deepstream.png)
+![deepstream](DeepStream.png)
 
 ### ANPR
 
-![anpr](anpr.png)
+![anpr](ANPR.png)
 
 ### OWL-ViT
 
